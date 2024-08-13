@@ -14,7 +14,6 @@ export const CompleteListPage = () => {
       }
 
       <ProductList products={ products } />
-
     </div>
   )
 }
